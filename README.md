@@ -1,7 +1,7 @@
 # Credit-Portfolio-Risk-Analytics
 # Credit Risk Portfolio Analysis & Dashboard
 
-An end-to-end credit risk analytics project combining Python-based data preparation and predictive modelling with Power BI portfolio analysis and interactive risk reporting.
+A credit risk analytics project combining Python-based data preparation and predictive modelling with Power BI portfolio analysis and interactive risk reporting.
 
 ---
 
